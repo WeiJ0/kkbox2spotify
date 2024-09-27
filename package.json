@@ -13,6 +13,7 @@
     "@primevue/themes": "^4.0.7",
     "axios": "^1.7.7",
     "nuxt": "^3.13.0",
+    "nuxt-gtag": "^3.0.1",
     "primeicons": "^7.0.0",
     "primevue": "^4.0.7",
     "vue": "latest",
